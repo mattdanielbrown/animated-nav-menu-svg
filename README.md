@@ -99,23 +99,3 @@ All that's left is to add the SVG-containing code to your HTML document (usually
 </svg>
 ```
 
-## API
-
-### animatedNavMenuSvg(input, options?)
-
-#### input
-
-Type: `string`
-
-Lorem ipsum.
-
-#### options
-
-Type: `object`
-
-##### foo
-
-Type: `boolean`\
-Default: `false`
-
-Lorem ipsum.
