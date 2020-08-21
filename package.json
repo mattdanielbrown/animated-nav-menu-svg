@@ -1,0 +1,33 @@
+{
+	"name": "animated-nav-menu-svg",
+	"version": "0.0.0",
+	"description": "NPM Package containing an animated navigation menu icon - implemented in svg - including CSS and Javascript, for use in HTML-based web development.",
+	"license": "MIT",
+	"repository": "mattdanielbrown/animated-nav-menu-svg",
+	"author": {
+		"name": "Matt Daniel Brown",
+		"email": "developer@mattdanielbrown.com",
+		"url": "mattdanielbrown.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"animated-nav-menu-svg.svg",
+		"animated-nav-menu-svg.js",
+		"animated-nav-menu-svg.css"
+	],
+	"style": "animated-nav-menu-svg.css",
+	"readme": "README.md",
+	"keywords": [
+		""
+	],
+	"dependencies": {},
+	"devDependencies": {
+		"ava": "^3.11.1",
+		"xo": "^0.33.0"
+	}
+}
